@@ -13,8 +13,8 @@ I sometimes find myself needing to test or call an executable or DLL, either fro
 You should be able to compile the code, which is C++ and probably horrible, using either [Visual Studio](https://visualstudio.microsoft.com/) or [GCC](https://gcc.gnu.org/). 
 
 Compiled versions (32-bit only) are also available:
-* [EXE](MessageBoxTests/blob/master/MsgBoxEXE/bin/Release/MsgBoxEXE.exe) (MD5 hash: 7f3aad78d9023036188ac05afec4ee5e)
-* [DLL](MessageBoxTests/blob/master/MsgBoxDLL/bin/Release/MsgBoxDLL.dll) (MD5 hash: 99b824d3f8cf9f0cb708e8c3b09cf8db)
+* [EXE](MsgBoxEXE/bin/Release/MsgBoxEXE.exe) (MD5 hash: 7f3aad78d9023036188ac05afec4ee5e)
+* [DLL](MsgBoxDLL/bin/Release/MsgBoxDLL.dll) (MD5 hash: 99b824d3f8cf9f0cb708e8c3b09cf8db)
 
 #### Using
 
